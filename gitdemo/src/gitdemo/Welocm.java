@@ -8,6 +8,7 @@ public class Welocm {
 		System.out.println("Pulling the code from github");
 		System.out.println("Pushing the code to remote repo : Attempt 2");
 		System.out.println("Pushing to branch1");
+		System.out.println("Pushing to master");
 	}
 
 }
